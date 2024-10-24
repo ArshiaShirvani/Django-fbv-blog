@@ -1,0 +1,9 @@
+django>3.2,<3.3
+django-debug-toolbar
+django-multi-captcha-admin
+django-ranged-response
+django-robots
+django-simple-captcha
+django-summernote
+django-taggit
+pillow
